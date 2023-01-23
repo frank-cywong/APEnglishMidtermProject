@@ -31,6 +31,11 @@ div.padding40px{
 div.citations{
 	font-size: 12px;
 }
+div.captions{
+	font-size: 12px;
+	color: #DDDDDD;
+	text-align: center;
+}
 td.tablesidediv1{
 	width: 35%;
 	vertical-align: text-top;
