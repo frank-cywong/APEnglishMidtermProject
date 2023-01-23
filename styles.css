@@ -8,17 +8,24 @@ div.body-wrapper{
 }
 div.top-title{
 	text-align: center;
-	font-size: 48px;
+	font-size: 36px;
 	font-weight: bold;
 	margin: auto;
 	width: 70%;
+}
+div.byline{
+	text-align: center;
+	color: #DDDDDD;
 }
 div.content{
 	margin: auto;
 	width: 70%;
 }
-div.padding80px{
-	padding-top: 80px;
+div.padding20px{
+	padding-top: 10px;
+}
+div.padding40px{
+	padding-top: 40px;
 }
 div.citations{
 	font-size: 12px;
